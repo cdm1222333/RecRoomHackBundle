@@ -1,0 +1,31 @@
+hi so this eac bypass does not blue screen because patchguard can't pick it up hope you like it
+
+
+1, first open up Wind64 and follow the steps to install it
+
+
+2, launch cheat engine make sure scan/memory is on in edit > settings it should say dbk64 loaded
+
+
+3, now re open wind64 and uninstall it should give you the option
+
+
+4, now open rec room if you get an error repeat the steps leading up to this
+
+
+5, once you load into your dorm open ce scan enable script and copy it
+
+
+6, now go to cheat engine and click on table then ce lua script and paste
+
+
+7, rec room scan should be enabled now it will just be ?? as the value
+
+
+8, final step don't be stupid ok :)
+
+
+
+
+
+tested on Windows 10 version 22H2 may not work on older versions of Windows

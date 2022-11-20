@@ -1,0 +1,47 @@
+Swapping items may not work
+
+1 open cheat engine and make sure value type is string
+
+2 put one of these food values in to the search box in cheat engine
+
+3 click first scan (if it doesn't show up click new scan)
+
+4 click on one of the values and press ctrl + a
+
+5 right click on them and click edit value
+
+6 paste a value from here in to there and press ok
+
+7 now select the food item in your watch menu
+
+
+
+
+Food=    [CheesePizzaConsumableTool]   [SupremePizzaConsumableTool] [RootBeerConsumableTool]
+------------------------------------------------------------------------------------------------------------------------
+BOSS=  [arena_jumbotron_mainframe] [quest_goblin_rotatingboss] [quest_pirate_bossenemy] [quest_goblin_bogmonster] [quest_goblin_witchboss] [quest_scifi_jumbotronbossenemy]
+--------------------------------------------------------------------------------------------------------------------------
+Weapons= [quest_scifi_railgun] [arena_pistol]  [Quest_SciFi_Shotgun]  [longbow] [quest_pirate1_flintlock] [arena_grenadelauncher] [paintballassaultrifle]
+[arena_rocketlauncher] [paintballshotgun] [Quest_Goblin_Wand] [Whip] [PaintballGrenadeLauncher]
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Sword= [questmeatsword] [questshield] [Quest_Dracula1_Rake]
+----------------------------------------------------------------------
+RecRoyale= [glider] [recroyale_backpack] [recroyale_ammo_loottool] [recroyale_healthandshieldpotion]
+------------------------------------------------------------------------------------------------------------------
+Quest Stuff= And Boxs=  [quest_pirate1_coinstack_small]  [quest_witch_projectile] [quest_pirate1_torch] [quest_pirate1_hookhand]
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Enemies=  [quest_goblin_eliteflyingrangedenemy] [quest_pirate_cannoneerenemy] [quest_pirate1_plate] [quest_scifi_tinygroundexplosiveenemy]
+------------------------------------------------------------------------------------------------------------------------------------------------
+SandBoxStuff= [makerpen] [sandbox_wall_window] [microphone] [rccarsandboxset] [holotarprojector] [flagtool] [eraser] [moveablewhiteboard] [sandbox_couch]
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Dev Stuff=  [greenscreen_tool] [arena_emp] [tutorialcamera] [tutorialcamera png]
+-------------------------------------------------------------------------------------------------
+Random.Stuff= [consumables_pizza_openbox] [paddleballball] [player] [battleroyalemanager] [wrist_watch] [trigger_volume] 
+[sharecamera]
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Boxs= [minilootchest_scifi] [giftbox] [lootchest_scifi] [lootchest]
+-----------------------------------------------------------------------------------------------
+Walls And Floors= [sandbox_wall] [sandbox_wall_window] [sandbox_stool]
+-----------------------------------------------------------------------	
+Player stuff= [HandheldStreamingCamera]	
+-----------------------------------------------
